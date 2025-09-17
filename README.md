@@ -97,4 +97,3 @@ Kết quả trên tập test:
 - **Trường**: Đại học Nguyễn Tất Thành   
 
 ---
-✍️ *Repo này được xây dựng nhằm trình bày sản phẩm cuối cùng của đồ án tốt nghiệp.*
